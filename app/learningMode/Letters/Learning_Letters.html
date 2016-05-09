@@ -1,0 +1,18 @@
+<h1 class="title">{{message}}</h1>
+
+<div ng-controller="Learning_LettersController as letters">
+
+    <div>
+
+    </div>
+    
+    <div class="row">
+    <div ng-repeat="pic in pictures">
+        <div class="clearfix" ng-if="$index % 3 == 0"></div>
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+            <img style="height:300px; width:300px;" ng-src="{{pic.url}}"/>
+        </div>
+    </div>
+</div>
+
+</div>

@@ -1,0 +1,60 @@
+#title
+{
+    text-align: center;
+}
+
+#menu_learning
+{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    width:70%;
+	margin:auto;
+}
+
+#Learning_Letters
+{
+    background-color: white;    
+    height: 16vmax;
+    border: black solid 1px;
+    
+    font-size: 5vmax;
+    text-align: center;
+    padding-top: 3vmax;
+
+}
+
+#Learning_House
+{
+    background-color: white;
+    height: 16vmax;
+    border: black solid 1px;
+    
+    font-size: 5vmax;
+    text-align: center;
+    padding-top: 3vmax;
+
+}
+
+#Learning_General
+{
+    background-color: white;
+    height: 16vmax;
+    border: black solid 1px;
+    
+    font-size: 5vmax;
+    text-align: center;
+    padding-top: 3vmax;
+}
+
+#Learning_playground
+{
+    background-color: white;
+    height: 16vmax;
+    border: black solid 1px;
+    
+    font-size: 5vmax;
+    text-align: center;
+    padding-top: 3vmax;
+}
+
+

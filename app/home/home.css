@@ -1,0 +1,71 @@
+.title
+{
+    text-align: center;
+}
+
+#contentPosition
+{
+    width:576;
+    height:320;
+    text-align: center;
+}
+
+
+#menu
+{
+    padding-top: 10%;
+    width:80%;
+	margin:auto;
+}
+
+#signUp
+{
+    background-color: white;
+    background-image:url(images/9.png);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+    
+    padding-top: 3vmax;
+    border: black solid 1px;
+    height: 16vmax;
+    
+    text-align: center;
+    font-size: 5vmax;
+}
+
+#signIn
+{
+    background-color: white;
+    background-image:url(images/7.jpg);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+    
+    padding-top: 3vmax;
+    border: black solid 1px ;       
+    height: 16vmax;
+    
+    text-align: center;
+    font-size: 5vmax;
+    
+}
+
+
+#learningMode
+{
+    background-color: white;
+    background-image:url(images/8.jpg);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;    
+    
+    padding-top: 1vmax;
+    border: black solid 1px;
+    height: 16vmax;
+    
+    text-align: center;
+    font-size: 5vmax;
+
+}
+
