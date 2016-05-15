@@ -46,12 +46,6 @@ diffSign.config(function ($routeProvider) {
             controller  : 'Learning_HouseController'
 
         })
-    
-        .when('/playVideo/:videoName', {
-            templateUrl : 'app/learningMode/playVideo.html',
-            controller  : 'playVideoController'
-
-        })
 
     
         .when('/Learning_Letters', {
@@ -59,16 +53,8 @@ diffSign.config(function ($routeProvider) {
             controller  : 'Learning_LettersController'
 
         })
-        .when('/Learning_playground', {
-            templateUrl : 'app/learningMode/playground/Learning_playground.html',
-            controller  : 'Learning_playgroundController'
-
-        })
-        .when('/Learning_General', {
-            templateUrl : 'app/learningMode/general/Learning_General.html',
-            controller  : 'Learning_GeneralController'
-
-        })
+        
+       
 
         .when('/games', {
             templateUrl : 'app/games/trivia/triviaGame.html',
